@@ -1,8 +1,6 @@
 # 概要
 unity1week 「そろえる」に参加した際に作成したゲームのソースコードとゲームデータです。
 
-投稿したブツはこちら
-
 [はばたけ野菜少女](https://unityroom.com/games/flyingyasaigarl)
 
 # 使用アセット/ライブラリ
