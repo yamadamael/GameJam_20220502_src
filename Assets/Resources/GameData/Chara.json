@@ -1,0 +1,772 @@
+﻿[
+    {
+        "Id": 1,
+        "Name": "きゅうり",
+        "Rarity": 4,
+        "Description": "きゅうりのテキスト",
+        "IconName": "yasai2_001"
+    },
+    {
+        "Id": 2,
+        "Name": "ブロッコリ",
+        "Rarity": 3,
+        "Description": "ブロッコリのテキスト",
+        "IconName": "yasai_001"
+    },
+    {
+        "Id": 3,
+        "Name": "なす",
+        "Rarity": 3,
+        "Description": "なすのテキスト",
+        "IconName": "yasai_002"
+    },
+    {
+        "Id": 4,
+        "Name": "かぼちゃ",
+        "Rarity": 3,
+        "Description": "かぼちゃのテキスト",
+        "IconName": "yasai_003"
+    },
+    {
+        "Id": 5,
+        "Name": "にんじん",
+        "Rarity": 3,
+        "Description": "にんじんのテキスト",
+        "IconName": "yasai_004"
+    },
+    {
+        "Id": 6,
+        "Name": "じゃがいも",
+        "Rarity": 3,
+        "Description": "じゃがいものテキスト",
+        "IconName": "yasai_005"
+    },
+    {
+        "Id": 7,
+        "Name": "きゃべつ",
+        "Rarity": 3,
+        "Description": "きゃべつのテキスト",
+        "IconName": "yasai_006"
+    },
+    {
+        "Id": 8,
+        "Name": "パプリカ",
+        "Rarity": 3,
+        "Description": "パプリカのテキスト",
+        "IconName": "yasai_007"
+    },
+    {
+        "Id": 9,
+        "Name": "玉ねぎ",
+        "Rarity": 3,
+        "Description": "玉ねぎのテキスト",
+        "IconName": "yasai_008"
+    },
+    {
+        "Id": 10,
+        "Name": "カメ",
+        "Rarity": 2,
+        "Description": "カメのテキスト",
+        "IconName": "animal_001"
+    },
+    {
+        "Id": 11,
+        "Name": "マンタ",
+        "Rarity": 2,
+        "Description": "マンタのテキスト",
+        "IconName": "animal_002"
+    },
+    {
+        "Id": 12,
+        "Name": "コブダイ",
+        "Rarity": 2,
+        "Description": "コブダイのテキスト",
+        "IconName": "animal_003"
+    },
+    {
+        "Id": 13,
+        "Name": "錦鯉",
+        "Rarity": 2,
+        "Description": "錦鯉のテキスト",
+        "IconName": "animal_004"
+    },
+    {
+        "Id": 14,
+        "Name": "ニジマス",
+        "Rarity": 2,
+        "Description": "ニジマスのテキスト",
+        "IconName": "animal_005"
+    },
+    {
+        "Id": 15,
+        "Name": "ヨシノボリ",
+        "Rarity": 2,
+        "Description": "ヨシノボリのテキスト",
+        "IconName": "animal_006"
+    },
+    {
+        "Id": 16,
+        "Name": "カサゴ",
+        "Rarity": 2,
+        "Description": "カサゴのテキスト",
+        "IconName": "animal_007"
+    },
+    {
+        "Id": 17,
+        "Name": "イソギンチャク",
+        "Rarity": 2,
+        "Description": "イソギンチャクのテキスト",
+        "IconName": "animal_008"
+    },
+    {
+        "Id": 18,
+        "Name": "ウツボ",
+        "Rarity": 2,
+        "Description": "ウツボのテキスト",
+        "IconName": "animal_009"
+    },
+    {
+        "Id": 19,
+        "Name": "フラミンゴ",
+        "Rarity": 2,
+        "Description": "フラミンゴのテキスト",
+        "IconName": "animal_010"
+    },
+    {
+        "Id": 20,
+        "Name": "ひよこ",
+        "Rarity": 2,
+        "Description": "ひよこのテキスト",
+        "IconName": "animal_011"
+    },
+    {
+        "Id": 21,
+        "Name": "オウム",
+        "Rarity": 2,
+        "Description": "オウムのテキスト",
+        "IconName": "animal_012"
+    },
+    {
+        "Id": 22,
+        "Name": "カルガモ",
+        "Rarity": 2,
+        "Description": "カルガモのテキスト",
+        "IconName": "animal_013"
+    },
+    {
+        "Id": 23,
+        "Name": "鶏",
+        "Rarity": 2,
+        "Description": "鶏のテキスト",
+        "IconName": "animal_014"
+    },
+    {
+        "Id": 24,
+        "Name": "アヒル",
+        "Rarity": 2,
+        "Description": "アヒルのテキスト",
+        "IconName": "animal_015"
+    },
+    {
+        "Id": 25,
+        "Name": "カモメ",
+        "Rarity": 2,
+        "Description": "カモメのテキスト",
+        "IconName": "animal_016"
+    },
+    {
+        "Id": 26,
+        "Name": "鳩",
+        "Rarity": 2,
+        "Description": "鳩のテキスト",
+        "IconName": "animal_017"
+    },
+    {
+        "Id": 27,
+        "Name": "ペンギン",
+        "Rarity": 2,
+        "Description": "ペンギンのテキスト",
+        "IconName": "animal_018"
+    },
+    {
+        "Id": 28,
+        "Name": "ハシビロコウ",
+        "Rarity": 2,
+        "Description": "ハシビロコウのテキスト",
+        "IconName": "animal_019"
+    },
+    {
+        "Id": 29,
+        "Name": "馬",
+        "Rarity": 2,
+        "Description": "馬のテキスト",
+        "IconName": "animal_020"
+    },
+    {
+        "Id": 30,
+        "Name": "ライオン",
+        "Rarity": 2,
+        "Description": "ライオンのテキスト",
+        "IconName": "animal_021"
+    },
+    {
+        "Id": 31,
+        "Name": "サル",
+        "Rarity": 2,
+        "Description": "サルのテキスト",
+        "IconName": "animal_022"
+    },
+    {
+        "Id": 32,
+        "Name": "サイ",
+        "Rarity": 2,
+        "Description": "サイのテキスト",
+        "IconName": "animal_023"
+    },
+    {
+        "Id": 33,
+        "Name": "キリン",
+        "Rarity": 2,
+        "Description": "キリンのテキスト",
+        "IconName": "animal_024"
+    },
+    {
+        "Id": 34,
+        "Name": "豚",
+        "Rarity": 2,
+        "Description": "豚のテキスト",
+        "IconName": "animal_025"
+    },
+    {
+        "Id": 35,
+        "Name": "トラ",
+        "Rarity": 2,
+        "Description": "トラのテキスト",
+        "IconName": "animal_026"
+    },
+    {
+        "Id": 36,
+        "Name": "カピバラ",
+        "Rarity": 2,
+        "Description": "カピバラのテキスト",
+        "IconName": "animal_027"
+    },
+    {
+        "Id": 37,
+        "Name": "鹿",
+        "Rarity": 2,
+        "Description": "鹿のテキスト",
+        "IconName": "animal_028"
+    },
+    {
+        "Id": 38,
+        "Name": "シマウマ",
+        "Rarity": 2,
+        "Description": "シマウマのテキスト",
+        "IconName": "animal_029"
+    },
+    {
+        "Id": 39,
+        "Name": "アルパカ",
+        "Rarity": 2,
+        "Description": "アルパカのテキスト",
+        "IconName": "animal_030"
+    },
+    {
+        "Id": 40,
+        "Name": "レッサーパンダ",
+        "Rarity": 2,
+        "Description": "レッサーパンダのテキスト",
+        "IconName": "animal_031"
+    },
+    {
+        "Id": 41,
+        "Name": "リス",
+        "Rarity": 2,
+        "Description": "リスのテキスト",
+        "IconName": "animal_032"
+    },
+    {
+        "Id": 42,
+        "Name": "ミミズク",
+        "Rarity": 2,
+        "Description": "ミミズクのテキスト",
+        "IconName": "animal_033"
+    },
+    {
+        "Id": 43,
+        "Name": "ハリネズミ",
+        "Rarity": 2,
+        "Description": "ハリネズミのテキスト",
+        "IconName": "animal_034"
+    },
+    {
+        "Id": 44,
+        "Name": "象",
+        "Rarity": 2,
+        "Description": "象のテキスト",
+        "IconName": "animal_035"
+    },
+    {
+        "Id": 45,
+        "Name": "イノシシ",
+        "Rarity": 2,
+        "Description": "イノシシのテキスト",
+        "IconName": "animal_036"
+    },
+    {
+        "Id": 46,
+        "Name": "クラゲ",
+        "Rarity": 2,
+        "Description": "クラゲのテキスト",
+        "IconName": "animal_037"
+    },
+    {
+        "Id": 47,
+        "Name": "マンボウ",
+        "Rarity": 2,
+        "Description": "マンボウのテキスト",
+        "IconName": "animal_038"
+    },
+    {
+        "Id": 48,
+        "Name": "ワニ",
+        "Rarity": 2,
+        "Description": "ワニのテキスト",
+        "IconName": "animal_039"
+    },
+    {
+        "Id": 49,
+        "Name": "バク",
+        "Rarity": 2,
+        "Description": "バクのテキスト",
+        "IconName": "animal_040"
+    },
+    {
+        "Id": 50,
+        "Name": "長谷川加奈",
+        "Rarity": 1,
+        "Description": "長谷川加奈のテキスト",
+        "IconName": "waifu_001"
+    },
+    {
+        "Id": 51,
+        "Name": "森山優衣",
+        "Rarity": 1,
+        "Description": "森山優衣のテキスト",
+        "IconName": "waifu_002"
+    },
+    {
+        "Id": 52,
+        "Name": "宇佐美愛実",
+        "Rarity": 1,
+        "Description": "宇佐美愛実のテキスト",
+        "IconName": "waifu_003"
+    },
+    {
+        "Id": 53,
+        "Name": "桝田希美",
+        "Rarity": 1,
+        "Description": "桝田希美のテキスト",
+        "IconName": "waifu_004"
+    },
+    {
+        "Id": 54,
+        "Name": "葛城京香",
+        "Rarity": 1,
+        "Description": "葛城京香のテキスト",
+        "IconName": "waifu_005"
+    },
+    {
+        "Id": 55,
+        "Name": "角谷千愛",
+        "Rarity": 1,
+        "Description": "角谷千愛のテキスト",
+        "IconName": "waifu_006"
+    },
+    {
+        "Id": 56,
+        "Name": "舟木美由樹",
+        "Rarity": 1,
+        "Description": "舟木美由樹のテキスト",
+        "IconName": "waifu_007"
+    },
+    {
+        "Id": 57,
+        "Name": "砂原恵理佳",
+        "Rarity": 1,
+        "Description": "砂原恵理佳のテキスト",
+        "IconName": "waifu_008"
+    },
+    {
+        "Id": 58,
+        "Name": "貝沼玲佳",
+        "Rarity": 1,
+        "Description": "貝沼玲佳のテキスト",
+        "IconName": "waifu_009"
+    },
+    {
+        "Id": 59,
+        "Name": "圷安由美",
+        "Rarity": 1,
+        "Description": "圷安由美のテキスト",
+        "IconName": "waifu_010"
+    },
+    {
+        "Id": 60,
+        "Name": "方沙世",
+        "Rarity": 1,
+        "Description": "方沙世のテキスト",
+        "IconName": "waifu_011"
+    },
+    {
+        "Id": 61,
+        "Name": "杉若理砂",
+        "Rarity": 1,
+        "Description": "杉若理砂のテキスト",
+        "IconName": "waifu_012"
+    },
+    {
+        "Id": 62,
+        "Name": "原沢友江",
+        "Rarity": 1,
+        "Description": "原沢友江のテキスト",
+        "IconName": "waifu_013"
+    },
+    {
+        "Id": 63,
+        "Name": "新垣有香",
+        "Rarity": 1,
+        "Description": "新垣有香のテキスト",
+        "IconName": "waifu_014"
+    },
+    {
+        "Id": 64,
+        "Name": "今安晴夏",
+        "Rarity": 1,
+        "Description": "今安晴夏のテキスト",
+        "IconName": "waifu_015"
+    },
+    {
+        "Id": 65,
+        "Name": "中杉千早",
+        "Rarity": 1,
+        "Description": "中杉千早のテキスト",
+        "IconName": "waifu_016"
+    },
+    {
+        "Id": 66,
+        "Name": "沢崎香子",
+        "Rarity": 1,
+        "Description": "沢崎香子のテキスト",
+        "IconName": "waifu_017"
+    },
+    {
+        "Id": 67,
+        "Name": "関元玉枝",
+        "Rarity": 1,
+        "Description": "関元玉枝のテキスト",
+        "IconName": "waifu_018"
+    },
+    {
+        "Id": 68,
+        "Name": "黒目叶子",
+        "Rarity": 1,
+        "Description": "黒目叶子のテキスト",
+        "IconName": "waifu_019"
+    },
+    {
+        "Id": 69,
+        "Name": "横大路三紗子",
+        "Rarity": 1,
+        "Description": "横大路三紗子のテキスト",
+        "IconName": "waifu_020"
+    },
+    {
+        "Id": 70,
+        "Name": "鴨野佐世子",
+        "Rarity": 1,
+        "Description": "鴨野佐世子のテキスト",
+        "IconName": "waifu_021"
+    },
+    {
+        "Id": 71,
+        "Name": "橋爪倫美",
+        "Rarity": 1,
+        "Description": "橋爪倫美のテキスト",
+        "IconName": "waifu_022"
+    },
+    {
+        "Id": 72,
+        "Name": "照下海燕",
+        "Rarity": 1,
+        "Description": "照下海燕のテキスト",
+        "IconName": "waifu_023"
+    },
+    {
+        "Id": 73,
+        "Name": "樋笠未來",
+        "Rarity": 1,
+        "Description": "樋笠未來のテキスト",
+        "IconName": "waifu_024"
+    },
+    {
+        "Id": 74,
+        "Name": "妻沼香月",
+        "Rarity": 1,
+        "Description": "妻沼香月のテキスト",
+        "IconName": "waifu_025"
+    },
+    {
+        "Id": 75,
+        "Name": "洞ヶ瀬雅乃",
+        "Rarity": 1,
+        "Description": "洞ヶ瀬雅乃のテキスト",
+        "IconName": "waifu_026"
+    },
+    {
+        "Id": 76,
+        "Name": "則岡真里枝",
+        "Rarity": 1,
+        "Description": "則岡真里枝のテキスト",
+        "IconName": "waifu_027"
+    },
+    {
+        "Id": 77,
+        "Name": "安留ふき子",
+        "Rarity": 1,
+        "Description": "安留ふき子のテキスト",
+        "IconName": "waifu_028"
+    },
+    {
+        "Id": 78,
+        "Name": "蒔苗美木",
+        "Rarity": 1,
+        "Description": "蒔苗美木のテキスト",
+        "IconName": "waifu_029"
+    },
+    {
+        "Id": 79,
+        "Name": "西堂小由里",
+        "Rarity": 1,
+        "Description": "西堂小由里のテキスト",
+        "IconName": "waifu_030"
+    },
+    {
+        "Id": 80,
+        "Name": "岩瀬由香",
+        "Rarity": 1,
+        "Description": "岩瀬由香のテキスト",
+        "IconName": "waifu_031"
+    },
+    {
+        "Id": 81,
+        "Name": "下野久美",
+        "Rarity": 1,
+        "Description": "下野久美のテキスト",
+        "IconName": "waifu_032"
+    },
+    {
+        "Id": 82,
+        "Name": "柳田まりこ",
+        "Rarity": 1,
+        "Description": "柳田まりこのテキスト",
+        "IconName": "waifu_033"
+    },
+    {
+        "Id": 83,
+        "Name": "眞田むつみ",
+        "Rarity": 1,
+        "Description": "眞田むつみのテキスト",
+        "IconName": "waifu_034"
+    },
+    {
+        "Id": 84,
+        "Name": "臼杵文江",
+        "Rarity": 1,
+        "Description": "臼杵文江のテキスト",
+        "IconName": "waifu_035"
+    },
+    {
+        "Id": 85,
+        "Name": "西牧小雪",
+        "Rarity": 1,
+        "Description": "西牧小雪のテキスト",
+        "IconName": "waifu_036"
+    },
+    {
+        "Id": 86,
+        "Name": "牧内英理",
+        "Rarity": 1,
+        "Description": "牧内英理のテキスト",
+        "IconName": "waifu_037"
+    },
+    {
+        "Id": 87,
+        "Name": "八幡眞紀",
+        "Rarity": 1,
+        "Description": "八幡眞紀のテキスト",
+        "IconName": "waifu_038"
+    },
+    {
+        "Id": 88,
+        "Name": "的野珠恵",
+        "Rarity": 1,
+        "Description": "的野珠恵のテキスト",
+        "IconName": "waifu_039"
+    },
+    {
+        "Id": 89,
+        "Name": "樫尾佳歩",
+        "Rarity": 1,
+        "Description": "樫尾佳歩のテキスト",
+        "IconName": "waifu_040"
+    },
+    {
+        "Id": 90,
+        "Name": "南場美智恵",
+        "Rarity": 1,
+        "Description": "南場美智恵のテキスト",
+        "IconName": "waifu_041"
+    },
+    {
+        "Id": 91,
+        "Name": "若田美音",
+        "Rarity": 1,
+        "Description": "若田美音のテキスト",
+        "IconName": "waifu_042"
+    },
+    {
+        "Id": 92,
+        "Name": "澤畑カンナ",
+        "Rarity": 1,
+        "Description": "澤畑カンナのテキスト",
+        "IconName": "waifu_043"
+    },
+    {
+        "Id": 93,
+        "Name": "高丸理砂",
+        "Rarity": 1,
+        "Description": "高丸理砂のテキスト",
+        "IconName": "waifu_044"
+    },
+    {
+        "Id": 94,
+        "Name": "柚原茜音",
+        "Rarity": 1,
+        "Description": "柚原茜音のテキスト",
+        "IconName": "waifu_045"
+    },
+    {
+        "Id": 95,
+        "Name": "武吉彬子",
+        "Rarity": 1,
+        "Description": "武吉彬子のテキスト",
+        "IconName": "waifu_046"
+    },
+    {
+        "Id": 96,
+        "Name": "安丸廣美",
+        "Rarity": 1,
+        "Description": "安丸廣美のテキスト",
+        "IconName": "waifu_047"
+    },
+    {
+        "Id": 97,
+        "Name": "瑞慶山裕未",
+        "Rarity": 1,
+        "Description": "瑞慶山裕未のテキスト",
+        "IconName": "waifu_048"
+    },
+    {
+        "Id": 98,
+        "Name": "溝上哲子",
+        "Rarity": 1,
+        "Description": "溝上哲子のテキスト",
+        "IconName": "waifu_049"
+    },
+    {
+        "Id": 99,
+        "Name": "但木百絵",
+        "Rarity": 1,
+        "Description": "但木百絵のテキスト",
+        "IconName": "waifu_050"
+    },
+    {
+        "Id": 100,
+        "Name": "白土富美恵",
+        "Rarity": 1,
+        "Description": "白土富美恵のテキスト",
+        "IconName": "waifu_051"
+    },
+    {
+        "Id": 101,
+        "Name": "万波椋子",
+        "Rarity": 1,
+        "Description": "万波椋子のテキスト",
+        "IconName": "waifu_052"
+    },
+    {
+        "Id": 102,
+        "Name": "和佐田夕華",
+        "Rarity": 1,
+        "Description": "和佐田夕華のテキスト",
+        "IconName": "waifu_053"
+    },
+    {
+        "Id": 103,
+        "Name": "谷道奈桜",
+        "Rarity": 1,
+        "Description": "谷道奈桜のテキスト",
+        "IconName": "waifu_054"
+    },
+    {
+        "Id": 104,
+        "Name": "横橋澄",
+        "Rarity": 1,
+        "Description": "横橋澄のテキスト",
+        "IconName": "waifu_055"
+    },
+    {
+        "Id": 105,
+        "Name": "矢ケ崎広奈",
+        "Rarity": 1,
+        "Description": "矢ケ崎広奈のテキスト",
+        "IconName": "waifu_056"
+    },
+    {
+        "Id": 106,
+        "Name": "殖栗理永",
+        "Rarity": 1,
+        "Description": "殖栗理永のテキスト",
+        "IconName": "waifu_057"
+    },
+    {
+        "Id": 107,
+        "Name": "永草果南",
+        "Rarity": 1,
+        "Description": "永草果南のテキスト",
+        "IconName": "waifu_058"
+    },
+    {
+        "Id": 108,
+        "Name": "宇和野吹雪",
+        "Rarity": 1,
+        "Description": "宇和野吹雪のテキスト",
+        "IconName": "waifu_059"
+    },
+    {
+        "Id": 109,
+        "Name": "福治瑠理子",
+        "Rarity": 1,
+        "Description": "福治瑠理子のテキスト",
+        "IconName": "waifu_060"
+    },
+    {
+        "Id": 110,
+        "Name": "針ヶ谷智未",
+        "Rarity": 1,
+        "Description": "針ヶ谷智未のテキスト",
+        "IconName": "waifu_061"
+    }
+]

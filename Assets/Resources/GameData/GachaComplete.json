@@ -1,0 +1,38 @@
+﻿[
+    {
+        "CharaId": 1,
+        "CompReward": 1
+    },
+    {
+        "CharaId": 2,
+        "CompReward": 0
+    },
+    {
+        "CharaId": 3,
+        "CompReward": 0
+    },
+    {
+        "CharaId": 4,
+        "CompReward": 0
+    },
+    {
+        "CharaId": 5,
+        "CompReward": 0
+    },
+    {
+        "CharaId": 6,
+        "CompReward": 0
+    },
+    {
+        "CharaId": 7,
+        "CompReward": 0
+    },
+    {
+        "CharaId": 8,
+        "CompReward": 0
+    },
+    {
+        "CharaId": 9,
+        "CompReward": 0
+    }
+]
