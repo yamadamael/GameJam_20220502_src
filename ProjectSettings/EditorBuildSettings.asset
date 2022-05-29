@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Boot.unity
+    guid: 4f76b7e1a86d8f049ad2591c7cd9aca0
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 6b768886b945b1b47aa99d3f3db87284
+  - enabled: 1
+    path: Assets/Scenes/Gacha.unity
+    guid: 5e6536d4bb31a084c91ec40e7350e08f
+  - enabled: 1
+    path: Assets/Scenes/GachaResult.unity
+    guid: a140199ca58cd864d94171c1e1cdc037
+  - enabled: 1
+    path: Assets/Scenes/Comp.unity
+    guid: c9c35d1d7fbc0d3448f065c5b91a00d2
+  - enabled: 1
+    path: Assets/naichilab/unity-simple-ranking/Scenes/Ranking.unity
+    guid: 152244f5855414ac4a3874f14efa583c
+  m_configObjects: {}
