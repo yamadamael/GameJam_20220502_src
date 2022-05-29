@@ -3,6 +3,18 @@ unity1week 「そろえる」に参加した際に作成したゲームのソー
 
 [はばたけ野菜少女](https://unityroom.com/games/flyingyasaigarl)
 
+### Assets/Scripts/App/
+unity1weekで使いまわしているテンプレート的なものです。
+
+### Assets/Scripts/Level/
+各シーンごとのソースです。
+
+### Assets/Scripts/Model/
+jsonファイルから取り込んだデータやゲーム中に保存するデータなどを扱っています。
+
+### Assets/Resources/GameData/
+ゲームで使う決まった値を定義したjsonファイルです。
+
 # 使用アセット/ライブラリ
 
 
