@@ -13,11 +13,14 @@ namespace gamejam
             audioSource.Play();
             float timer = 0f;
 
-            //WaitForSecondsを使うとCoroutineを一時停止・再開できなくなるのでwhileで対応//
-            while (timer < audioClip.length)
+            if (audioClip != null)
             {
-                timer += Time.deltaTime;
-                yield return null;
+                //WaitForSecondsを使うとCoroutineを一時停止・再開できなくなるのでwhileで対応//
+                while (timer < audioClip.length)
+                {
+                    timer += Time.deltaTime;
+                    yield return null;
+                }
             }
 
             if (compCallback != null)
@@ -32,11 +35,14 @@ namespace gamejam
             audioSource.PlayOneShot(audioClip);
             float timer = 0f;
 
-            //WaitForSecondsを使うとCoroutineを一時停止・再開できなくなるのでwhileで対応//
-            while (timer < audioClip.length)
+            if (audioClip != null)
             {
-                timer += Time.deltaTime;
-                yield return null;
+                //WaitForSecondsを使うとCoroutineを一時停止・再開できなくなるのでwhileで対応//
+                while (timer < audioClip.length)
+                {
+                    timer += Time.deltaTime;
+                    yield return null;
+                }
             }
 
             if (compCallback != null)
