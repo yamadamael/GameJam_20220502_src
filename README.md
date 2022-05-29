@@ -2,7 +2,7 @@
 [はばたけ野菜少女](https://unityroom.com/games/flyingyasaigarl)
 
 unity1week 「そろえる」に参加した際に作成したゲームのソースコードとゲームデータです。<br>
-Unityから開いてBoot.unityから再生すれば動作する想定です。<br>
+Unityから開いて[使用したアセット/ライブラリ](https://github.com/yamadamael/GameJam_20220502_src/edit/main/README.md#%E4%BD%BF%E7%94%A8%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA)を導入しBoot.unityから再生すれば動作する想定です。<br>
 音声やキャラ画像はmetaデータのみコミットしています。<br>
 
 ### Assets/Scripts/App/
@@ -22,5 +22,4 @@ jsonファイルから取り込んだデータやゲーム中に保存するデ�
 - [LitJSON](https://litjson.net/)
 - [unity-simple-ranking](https://github.com/naichilab/unity-simple-ranking)
 - [unityroom-tweet](https://github.com/naichilab/unityroom-tweet)
-- [NIF CLOUD mobile backend](https://mbaas.nifcloud.com/)
 - [NotoSansCJKjp](https://fonts.google.com/noto/specimen/Noto+Sans+JP)
