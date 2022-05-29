@@ -47,7 +47,15 @@ namespace gamejam
             SetFrameColor(charaModel.Rarity);
 
             var path = string.Format("Texture/{0}", charaModel.IconName);
-            _charaImage.sprite = Resources.Load<Sprite>(path);
+            var sprite = Resources.Load<Sprite>(path);
+            if (sprite != null)
+            {
+                _charaImage.sprite = sprite;
+            }
+            else
+            {
+                _charaImage.gameObject.SetActive(false);
+            }
 
             _gradationImage.gameObject.SetActive(Define.RaritySR <= charaModel.Rarity);
             if (Define.RaritySR < charaModel.Rarity)
